@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cats</folder>
+	<filename>13_c.jpg</filename>
+	<path>/home/jayateertha/Documents/CV/Object detection/Images/cats/13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>26</ymin>
+			<xmax>767</xmax>
+			<ymax>569</ymax>
+		</bndbox>
+	</object>
+</annotation>
